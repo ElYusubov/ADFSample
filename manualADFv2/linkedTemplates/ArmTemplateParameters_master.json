@@ -5,10 +5,10 @@
 		"factoryName": {
 			"value": "manualADFv2"
 		},
-		"AzureStorageLinkedService_connectionString": {
+		"AzureSqlDatabaseLinkedService_connectionString": {
 			"value": ""
 		},
-		"AzureSqlDatabaseLinkedService_connectionString": {
+		"AzureStorageLinkedService_connectionString": {
 			"value": ""
 		},
 		"containerUri": {
